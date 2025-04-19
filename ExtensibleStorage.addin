@@ -1,0 +1,23 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>WriteExtensibleStorage</Name>
+        <Assembly>ExtensibleStorage/ExtensibleStorage.dll</Assembly>
+        <AddInId>0AD0BA5F-330A-449A-873C-8FCB82AE4E82</AddInId>
+        <FullClassName>ExtensibleStorage.Commands.WriteExtensibleStorage</FullClassName>
+        <Text>Write Extensible Storage</Text>
+        <VendorId>Khalid</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+
+	<AddIn Type="Command">
+		<Name>ReadExtensibleStorage</Name>
+		<Assembly>ExtensibleStorage/ExtensibleStorage.dll</Assembly>
+		<AddInId>B1B58846-9955-480F-A425-1487A02183DF</AddInId>
+		<FullClassName>ExtensibleStorage.Commands.ReadExtensibleStorage</FullClassName>
+		<Text>Read Extensible Storage</Text>
+		<VendorId>Khalid</VendorId>
+		<VendorDescription></VendorDescription>
+		<VendorEmail></VendorEmail>
+	</AddIn>
+</RevitAddIns>
