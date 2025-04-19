@@ -1,1 +1,1 @@
-# ExtensibleStorage
+A Revit add-in demonstrating how to use Extensible Storage to store and retrieve custom data attached to elements. Includes full support for Revit versions 2020 to 2026, with write and read examples, field types, access levels, and schema versioning practices.
